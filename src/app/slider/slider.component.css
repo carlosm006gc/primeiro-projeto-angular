@@ -1,0 +1,17 @@
+.example-large-box {
+    display: block;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    padding: 16px;
+    border-radius: 8px;
+
+  }  
+  .example-large-box {
+    height: 300px;
+    width: 300px;
+  }
+  img{
+    height: 300px;
+    width: 300px;
+  }

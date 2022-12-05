@@ -1,0 +1,9 @@
+.mat-button{
+    display: block;
+    margin: auto;
+}
+.mat-card-title{
+    height: 50px;
+    text-align: center;
+    margin: auto;
+}
